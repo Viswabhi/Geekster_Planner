@@ -97,7 +97,7 @@ function Todo() {
 
   return (
     <div className="flex flex-col justify-center items-center mt-24">
-      <h1 className="text-5xl font-bold text-[#29B475]">
+      <h1 className="text-5xl font-bold bg-gradient-to-br from-green-400 to-red-600 text-transparent bg-clip-text">
         Geekster Education Planner
       </h1>
       <div className="flex gap-4 mt-10">
